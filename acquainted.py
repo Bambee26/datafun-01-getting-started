@@ -42,11 +42,11 @@ logger,logname = setup_logger(__file__)
 # Try some string, integer, float, and boolean (True/False) variables
 # TODO: Customize these by changing the values 
 
-name = "John Doe"
+name = "Bambee Garfield"
 state = "California"
 country = "USA"
 
-pet_count = 1
+pet_count = 3
 skill_count = 24
 
 temperature_f = 81.5
