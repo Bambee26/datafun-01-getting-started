@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic expresssions and operators in Python.
 
-Author: Denise Case
+Author: Bambee Garfield
 
 This file name is:   basic_expressions.py
 This module name is: basic_expressions
@@ -21,6 +21,8 @@ Expressions are made of operands and operators.
   and can include function calls like len() and str().
 
 Writing expressions in Python is like writing formulas in Excel.
+
+Changes: initial exploration
  
 """
 
@@ -30,18 +32,18 @@ logger,logname = setup_logger(__file__)
 # Declare some variables 
 # TODO: Try changing the values of these variables
 # TODO: Add some new variables and calculate the area of a rectangle ()
-triangle_base = 10
-triangle_height = 5
-i = 50
-j = 20
-a = 1.1
-b = 2.2
-c = 3.3
+triangle_base = 8
+triangle_height = 3
+i = 40
+j = 10
+a = 1.5
+b = 2.5
+c = 3.6
 
 # Try some operators (multiply, divide, add, subtract)
 triangle_area = triangle_base * triangle_height / 2
-sum = a + b
-difference = i - j
+sum = c + b
+difference = b - j
 
 # Log some information using f-strings (formatted strings)
 logger.info(f"Given base={triangle_base} and height={triangle_height}, the triangle area = {triangle_area}")
