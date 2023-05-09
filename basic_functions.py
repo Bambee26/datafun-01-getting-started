@@ -37,7 +37,7 @@ logger, logname = setup_logger(__file__)
 
 # Declare some variables
 url = "https://docs.python.org/3/library/functions.html"
-number_list = [1, 2, 3, 4, 5]
+number_list = [10, 20, 30, 40, 50]
 
 # Try some built-in functions like len(), min(), max()
 length = len(number_list)
