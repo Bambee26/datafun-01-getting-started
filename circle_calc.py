@@ -2,7 +2,7 @@
 
 Purpose: Calculate the area of a circle.
 
-Author: Denise Case
+Author: Bambee Garfield
 
 This script illustrates importing modules and using constants.
 
