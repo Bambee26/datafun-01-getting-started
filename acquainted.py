@@ -1,7 +1,7 @@
 """
 Purpose: Get acquainted with basic Python concepts.
 
-Author: Denise Case
+Author: Bambee Garfield
 
 This file name is:   acquainted.py
 This module name is: acquainted
@@ -46,15 +46,15 @@ name = "Bambee Garfield"
 state = "California"
 country = "USA"
 
-pet_count = 3
+pet_count = 2
 skill_count = 24
 
 temperature_f = 81.5
-pet_weight_lbs = 12.5
+pet_weight_lbs = 62.5
 
-has_dog = False
+has_dog = True
 likes_analytics = True
-likes_python = True
+likes_python = False
 
 # Log some information using f-strings (formatted strings)
 # f-strings are a convenient way to embed variables in strings
