@@ -1,0 +1,21 @@
+2023-05-12 12:14:14,184 =============================================================
+2023-05-12 12:14:14,184 =============================================================
+2023-05-12 12:14:14,184 Today is 2023-05-12 at 12:14 PM
+2023-05-12 12:14:14,241 This file is running on: nt Windows 10
+2023-05-12 12:14:14,241 The Python version is: 3.11.3
+2023-05-12 12:14:14,241 The active conda environment is:  None
+2023-05-12 12:14:14,241 The active pip environment is:    None
+2023-05-12 12:14:14,241 The active environment path is:   C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1008.0_x64__qbz5n2kfra8p0
+2023-05-12 12:14:14,241 The current working directory is: C:\Users\bambe\Documents\44608_DataAnalyticsFundamentals\datafun-01-getting-started
+2023-05-12 12:14:14,241 This source file is in:           c:\Users\bambe\Documents\44608_DataAnalyticsFundamentals\datafun-01-getting-started
+2023-05-12 12:14:14,241 =============================================================
+2023-05-12 12:14:14,241 =============================================================
+2023-05-12 12:14:19,038 The total number of pets you have is 6.
+2023-05-12 12:14:19,038 Pets are the best!
+2023-05-12 12:14:19,038 The average number of pets you have is 2.0.
+2023-05-12 12:14:19,038 This could be higher!
+2023-05-12 12:14:19,038 If you multiply your all of your pets together, you get 6.
+2023-05-12 12:14:19,038 This is a weird calculation.
+2023-05-12 12:14:19,038 The smallest pet count you have is dogs at 1.
+2023-05-12 12:14:19,038 The largest pet count you have is other at 3.
+2023-05-12 12:14:19,038 The range of the number of pets you have is 1 to 3
